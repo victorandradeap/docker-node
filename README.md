@@ -12,4 +12,4 @@ To see more: https://docs.docker.com
 
 - Run on folder of project: "docker-compose up"
 
-- The container is running on port 3000
+- The container is running and exposing port 3000
